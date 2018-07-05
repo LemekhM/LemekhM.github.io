@@ -172,7 +172,7 @@ img {
   margin: auto;
   margin-top: -70px;
   max-width: 100%;
-  background-image: url('../images/nastol.jpg');
+  background-image: url('../images/page_title/nastol.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -190,7 +190,7 @@ img {
   top: -80px;
   margin: 0 auto;
   height: 160px;
-  width: 970px;
+  max-width: 970px;
   background-color: #ffffff;
 }
 .search form {
@@ -261,24 +261,24 @@ h2 {
   margin: 0;
   width: 360px;
   height: 300px;
-  background-image: url('../images/beachfront.jpg');
+  background-image: url('../images/ideas/beachfront.jpg');
   background-size: cover;
 }
 .box1_2 {
   margin: 0;
   width: 360px;
   height: 300px;
-  background-image: url('../images/beachfront.jpg');
+  background-image: url('../images/ideas/beachfront.jpg');
   background-size: cover;
-  background-image: url('../images/group.jpg');
+  background-image: url('../images/ideas/group.jpg');
 }
 .box1_3 {
   margin: 0;
   width: 360px;
   height: 300px;
-  background-image: url('../images/beachfront.jpg');
+  background-image: url('../images/ideas/beachfront.jpg');
   background-size: cover;
-  background-image: url('../images/city.jpg');
+  background-image: url('../images/ideas/city.jpg');
 }
 div h3 {
   text-align: center;
@@ -374,101 +374,101 @@ div h3 {
 }
 .p1_1 {
   width: 279px;
-  background-image: url(../images/p1_1.png);
+  background-image: url(../images/locations/p1_1.png);
   background-repeat: no-repeat;
   padding-bottom: 163px;
 }
 .p1_2 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
 }
 .p1_3 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p1_3.png);
+  background-image: url(../images/locations/p1_3.png);
 }
 .p1_4 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p1_4.png);
+  background-image: url(../images/locations/p1_4.png);
 }
 .p2_1 {
   width: 279px;
-  background-image: url(../images/p1_1.png);
+  background-image: url(../images/locations/p1_1.png);
   background-repeat: no-repeat;
   padding-bottom: 163px;
-  background-image: url(../images/p2_1.png);
+  background-image: url(../images/locations/p2_1.png);
 }
 .p2_2 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p2_2.png);
+  background-image: url(../images/locations/p2_2.png);
 }
 .p2_3 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p2_3.png);
+  background-image: url(../images/locations/p2_3.png);
 }
 .p2_4 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p2_4.png);
+  background-image: url(../images/locations/p2_4.png);
 }
 .p3_1 {
   width: 279px;
-  background-image: url(../images/p1_1.png);
+  background-image: url(../images/locations/p1_1.png);
   background-repeat: no-repeat;
   padding-bottom: 163px;
-  background-image: url(../images/p3_1.png);
+  background-image: url(../images/locations/p3_1.png);
 }
 .p3_2 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p3_2.png);
+  background-image: url(../images/locations/p3_2.png);
 }
 .p3_3 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p3_3.png);
+  background-image: url(../images/locations/p3_3.png);
 }
 .p3_4 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p3_4.png);
+  background-image: url(../images/locations/p3_4.png);
 }
 .p4_1 {
   width: 279px;
-  background-image: url(../images/p1_1.png);
+  background-image: url(../images/locations/p1_1.png);
   background-repeat: no-repeat;
   padding-bottom: 163px;
-  background-image: url(../images/p4_1.png);
+  background-image: url(../images/locations/p4_1.png);
 }
 .p4_2 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p4_2.png);
+  background-image: url(../images/locations/p4_2.png);
 }
 .p4_3 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p4_3.png);
+  background-image: url(../images/locations/p4_3.png);
 }
 .p4_4 {
   width: 93px;
-  background-image: url(../images/p1_2.png);
+  background-image: url(../images/locations/p1_2.png);
   background-repeat: no-repeat;
-  background-image: url(../images/p4_4.png);
+  background-image: url(../images/locations/p4_4.png);
 }
 h4 {
   font-size: 25px;
@@ -487,15 +487,15 @@ h4 {
   max-width: 100%;
 }
 .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: auto;
-  padding: 25px;
+  /* padding: 25px; */
   background-color: #0e9a52;
-  border-radius: 60px;
-  height: 60px;
-  width: 60px;
-}
-.icon img {
-  padding: 5px;
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
 }
 .text {
   margin: 40px auto;
@@ -507,7 +507,7 @@ h5 {
 }
 .message_background {
   overflow: hidden;
-  background-image: url('../images/palm.jpg');
+  background-image: url('../images/footer/palm.jpg');
   background-size: cover;
   background-position: center;
   margin: 0 auto;
