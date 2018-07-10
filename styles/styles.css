@@ -103,7 +103,7 @@ li {
 img {
   max-width: 100%;
 }
-.center_block_main {
+header {
   overflow: hidden;
   position: relative;
   height: 70px;
@@ -113,14 +113,16 @@ img {
   max-width: 100%;
   font-family: Montserrat;
 }
-.center_block_main div {
+header div {
   max-width: 1366px;
   margin: 0 auto;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
 }
 .menu_left {
-  float: left;
-  margin: 0 auto;
-  display: block;
+  margin: 0px 30px;
+  display: flex;
 }
 .menu_left div {
   margin: 35px 0px;
@@ -131,16 +133,15 @@ img {
 .menu_left li a {
   margin: 30px 60px 0px 60px;
   padding-bottom: 17px;
-  display: block;
+  display: flex;
 }
 .menu_left li a:hover {
   color: #73b3da;
   border-bottom: 3px solid #73b3da;
 }
 .menu_right {
-  float: right;
-  margin: 0 auto;
-  display: block;
+  margin: 0px 30px;
+  display: flex;
 }
 .menu_right div {
   margin: 35px 0px;
@@ -151,22 +152,14 @@ img {
 .menu_right li a {
   margin: 30px 60px 0px 60px;
   padding-bottom: 17px;
-  display: block;
+  display: flex;
 }
 .menu_right li a:hover {
   color: #73b3da;
   border-bottom: 3px solid #73b3da;
 }
-.clr {
-  clear: right;
-}
 .logo {
-  position: relative;
-  left: 110px;
-  top: 17px;
-  float: left;
-  width: auto;
-  display: inline-block;
+  padding-top: 17px;
 }
 .center_block_form {
   margin: auto;
@@ -564,14 +557,11 @@ h6 {
   text-align: right;
   flex: 3;
 }
-@media (min-width: 0px) and (max-width: 1024px) {
-  .logo {
-    position: relative;
-    left: 2%;
+@media (max-width: 1110px) {
+  .menu_left li a {
+    margin: 30px 15px 0px 30px;
   }
-  .menu_left,
-  .menu_right {
-    font-size: 91%;
-    padding: 60px 10px 60px 10px;
+  .menu_right li a {
+    margin: 30px 15px 0px 30px;
   }
 }
