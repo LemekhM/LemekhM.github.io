@@ -336,6 +336,12 @@ div h3 {
   display: flex;
   justify-content: space-between;
 }
+.fas {
+  padding: 20px 0px 10px 0px;
+}
+.fas i {
+  padding: 11px;
+}
 .botton {
   margin-top: 20px;
 }
