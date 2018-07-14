@@ -532,9 +532,10 @@ input {
   font-weight: lighter;
   margin-top: 110px;
   padding: 12px 30px;
-  border-radius: 30px;
+  border-radius: 40px;
   background-color: red;
   color: #ffffff;
+  cursor: pointer;
 }
 footer {
   margin: auto;
