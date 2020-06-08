@@ -1,0 +1,102 @@
+
+header {
+    padding: 20px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    font-size: 25px;
+}
+
+.header__content {
+    padding-top: 70px;
+}
+
+.header__content__title {
+    font-size: 45px;
+}
+
+.header__content__paragraph {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.content__button {
+    max-width: 150px;
+}
+
+.content__button, .form__btn {
+    background: #ff7a00;
+    border-color: #ff7a00;
+}
+
+.content__button:hover, .form__btn:hover {
+    background: #ff3d00;
+    border-color: #ff3d00;
+}
+
+img {
+    width: 100%;
+}
+
+.header__sidebar__button {
+    padding: 0;
+
+}
+
+.header__sidebar__nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.games__section__title {
+    max-width: 550px;
+    padding: 40px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.games__section__cards {
+    padding-bottom: 40px;
+}
+
+.card {
+    border: none;
+    text-align: center;
+}
+
+.form__btn {
+    width: 100%;
+}
+
+.first__games__section, footer {
+    background: #444444;
+    color: #fff;
+}
+
+.first__games__section .card-body {
+    background: #444444;
+}
+
+footer {
+    padding: 40px 0;
+}
+
+.footer-cr {
+    text-align: center;
+    margin: 40px 0 0 0;
+}
